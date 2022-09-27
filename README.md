@@ -1,0 +1,2 @@
+# SNP_distribution_analysis
+This repository contains data and code used in the SNP distribution analysis. We explore the distribution of SNPs across all introns and exons in the genome of the studied organisms (cattle, human, pig?). We try to answer the question of whether introns or exons located at the beginning of the gene tend to accumulate more SNPs then their counterparts located at the end of the gene.
